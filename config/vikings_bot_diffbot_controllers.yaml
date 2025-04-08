@@ -1,4 +1,4 @@
-vikings_bot_1:
+/**:
   controller_manager:
     ros__parameters:
       update_rate: 10  # Hz
